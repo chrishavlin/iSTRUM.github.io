@@ -1,6 +1,7 @@
 +++
-title = "iSTRUM Community Workshop - Summer 2026"
-date = "2025-11-03"
+title = "iSTRUM Community Workshop: Apply Now! "
+date = "2026-01-30"
+summary = "Applications are now open for the iSTRUM Community Workshop, June 22nd-26th 2026."
 showTableOfContents = false
 +++
 
